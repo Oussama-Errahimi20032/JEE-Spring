@@ -13,6 +13,10 @@ Java (Langage de programmation principal) : Le langage de programmation principa
 
 MySQL (Base de données) : Le système de gestion de base de données utilisé pour stocker et gérer efficacement les données du projet.
 
+Postman :outil populaire utilisé par les développeurs pour tester, documenter et collaborer sur les API (Interfaces de Programmation d'Applications).
+Il fournit une interface conviviale qui permet aux développeurs de créer des requêtes HTTP personnalisées et d'interagir avec des API RESTful, 
+GraphQL, SOAP, et d'autres types d'API
+
 Swagger (Documentation de l'API) : Swagger, désormais connu sous le nom d'OpenAPI, est utilisé pour créer et documenter les API, facilitant la compréhension
 et l'interaction des développeurs avec les points de terminaison du projet.
 
